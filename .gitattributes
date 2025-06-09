@@ -1,0 +1,2 @@
+screenshots/preview_android.gif filter=lfs diff=lfs merge=lfs -text
+screenshots/preview_desktop.gif filter=lfs diff=lfs merge=lfs -text
